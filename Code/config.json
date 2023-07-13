@@ -1,0 +1,8 @@
+{
+    "my_sql_cred" : {
+        "user_name" : "root",
+        "password" : "RakiM21",
+        "database" : "web_extraction",
+        "host" : "localhost"
+    }
+}
